@@ -1,16 +1,28 @@
 ## Hi there 👋
 
+I'm a Computer Science student passionate about software development, learning new technologies, and exploring different areas of software development.
+My github contains my learning projects, including school assignments and personal experiments.
+
+---
+
+### 🌱 Currently Learning:
+- 💻 Machine Learning and Deep Learning
+- 🌐 Web Development
+- 📊 Data Science
+
+---
+
+### 🔧 Technologies & Tools:
+- Languages: C++, Java, Python, C#
+- Frameworks: Spring Boot, WinForms
+- Other Tools: Docker, Git, Conda, PyTorch
+
+---
 <!--
-**Quercusoak/Quercusoak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 Featured Projects:
+- []() - desc
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+### ⚡ Fun Fact:
+- I love science fiction and I love speculating about the different directions technology may develope in the future.
