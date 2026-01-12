@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Computer Science student passionate about software development, learning new technologies, and exploring different areas of software development.
+I'm a Computer Science graduate passionate about software development, learning new technologies, and exploring different areas of software development.
 My github contains my learning projects, including school assignments and personal experiments.
 
 ---
